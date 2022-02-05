@@ -1,2 +1,3 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232589F7&lines=Hi+there!+%3A\);I+am+Tigran+;Nice+to+meet+you+%3A-\))](https://git.io/typing-svg)
 [![Tigran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tigran0199)](https://github.com/Tigran0199/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tigran0199)](https://github.com/Tigran0199/github-readme-stats)
